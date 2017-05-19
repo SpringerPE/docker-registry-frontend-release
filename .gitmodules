@@ -1,0 +1,3 @@
+[submodule "src/docker-registry-frontend"]
+	path = src/docker-registry-frontend
+	url = https://github.com/kwk/docker-registry-frontend
